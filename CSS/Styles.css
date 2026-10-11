@@ -1,0 +1,26 @@
+body {
+  background-color: #cee2e9;
+}
+
+.container {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: cadetblue;
+}
+
+h1 {
+  font-size: 36px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+  text-align-last: center;
+}
+
+h2 {
+  text-align-last: center;
+}
+
